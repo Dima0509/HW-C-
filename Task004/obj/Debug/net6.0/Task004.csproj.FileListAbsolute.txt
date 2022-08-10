@@ -1,0 +1,15 @@
+C:\Users\ДимЧек\HW C#\Task004\bin\Debug\net6.0\Task004.exe
+C:\Users\ДимЧек\HW C#\Task004\bin\Debug\net6.0\Task004.deps.json
+C:\Users\ДимЧек\HW C#\Task004\bin\Debug\net6.0\Task004.runtimeconfig.json
+C:\Users\ДимЧек\HW C#\Task004\bin\Debug\net6.0\Task004.dll
+C:\Users\ДимЧек\HW C#\Task004\bin\Debug\net6.0\Task004.pdb
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.csproj.AssemblyReference.cache
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.AssemblyInfoInputs.cache
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.AssemblyInfo.cs
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.csproj.CoreCompileInputs.cache
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.dll
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\refint\Task004.dll
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.pdb
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\Task004.genruntimeconfig.cache
+C:\Users\ДимЧек\HW C#\Task004\obj\Debug\net6.0\ref\Task004.dll
